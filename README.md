@@ -6,17 +6,17 @@
 
 ### O principal componente é o Node MCU Esp8266, nele estão ligados alguns sensores como DHT22 (sensor de tempreatura e umidade), TL-83 (sensor de chuva), painel solar fotovoltaico (5v 1w), uma bateria 18650 (4.2v 9800mha) TP4056 (placa que alterna a fonte de energia entre o painel solar e bateria) e LDR (sensor de luz foto-resistivo). 
 
-![](https://github.com/LucianoParente/weather-station/pics/Escheme.jpg)
+![](https://github.com/LucianoParente/pics/Escheme.jpg)
 
-#Station
+# Station
 
-![](https://github.com/LucianoParente/weather-station/pics/WS_img.jpeg)
+![](https://github.com/LucianoParente/pics/WS_img.jpeg)
 
 # Web Page Monitoring
 
 ### Para acompanhar em tempo real as informações coletadas pela estação, desenvolvi uma págia web com informações em gráficos de forma amigável para que o usuário possa verificar a situação atual e o histórico anterior. 
 
-![](https://github.com/LucianoParente/weather-station/pics/page_sample.png)
+![](https://github.com/LucianoParente/pics/page_sample.png)
 
 # Contato
 
